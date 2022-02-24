@@ -1,0 +1,18 @@
+.fondo{
+    Background-color:beige
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+.parrafo{
+font-size: 16px;
+color: black;
+}
+
+.marco{
+border: 2px solid black;    
+}
